@@ -42,6 +42,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-05-21' },
+        { keyword: 'xiangshi', date: '2022-04-26' },
       ],
     },
   ],
